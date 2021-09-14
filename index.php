@@ -408,7 +408,7 @@
                                                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                                     </div>
                                                     <footer class="entry-footer">
-                                                        <a class="btn btn-dark-gray" href="books-media-detail-v1.html">Read More</a>
+                                                        <a class="btn btn-dark-gray" href="books-media-detail-v2.html">Read More</a>
                                                     </footer>
                                                 </div>
                                                 <div class="clear"></div>
@@ -461,7 +461,7 @@
                                                     <header class="entry-header">
                                                         <div class="row">
                                                             <div class="col-sm-6">
-                                                                <h3 class="entry-title"><a href="books-media-detail-v1.html">The Great Gatsby</a></h3>
+                                                                <h3 class="entry-title"><a href="books-media-detail-v2.html">The Great Gatsby</a></h3>
                                                                 <ul>
                                                                     <li><strong>Author:</strong> F. Scott Fitzgerald</li>
                                                                     <li><strong>ISBN:</strong> 9781581573268</li>
@@ -489,7 +489,7 @@
                                                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                                     </div>
                                                     <footer class="entry-footer">
-                                                        <a class="btn btn-dark-gray" href="books-media-detail-v1.html">Read More</a>
+                                                        <a class="btn btn-dark-gray" href="books-media-detail-v2.html">Read More</a>
                                                     </footer>
                                                 </div>
                                             </div>
