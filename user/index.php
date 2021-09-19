@@ -1,5 +1,6 @@
 <?php
     require('../account/dbconn.php');
+    //generate a user id
     function create_userid(){
         $length = rand(3,19);
         $number = "";
