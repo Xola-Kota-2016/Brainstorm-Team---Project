@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
     
     require('account/dbconn.php');
@@ -67,8 +67,7 @@
 
 
 
-=======
->>>>>>> f88fb745b89f96c74642aa590c03792cf39e324a
+
 <!DOCTYPE html>
 <html lang="zxx">
     
@@ -111,7 +110,7 @@
     <body>
 
         <!-- Start: Header Section -->
-<<<<<<< HEAD
+
         <?php
         
         if($header_key == 1){
@@ -120,7 +119,7 @@
             include("html/header_guest.php");
         }
         ?>
-=======
+
         <header id="header-v1" class="navbar-wrapper inner-navbar-wrapper">
             <div class="container">
                 <div class="row">
@@ -314,7 +313,7 @@
                 </div>
             </div>
         </header>
->>>>>>> f88fb745b89f96c74642aa590c03792cf39e324a
+
         <!-- End: Header Section -->
                 
         <!-- Start: Page Banner -->
