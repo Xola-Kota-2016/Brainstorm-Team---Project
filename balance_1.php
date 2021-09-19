@@ -1,1 +1,0 @@
-<a href="user"><i class="fa fa-money"></i> Balance R 10</a>
